@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to left, #00bfff, #87cefa, #b0e0e6, #00ced1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 13%;
+}
+
+.gradiente{
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32%;
+    height: 45%;
+    padding: 45px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.texto h1{
+    text-align: center;
+    color: hsl(210, 50%, 50%);
+    font-size: 28px;
+}
+
+.texto h2{
+    color: hsl(210, 50%, 60%);
+}
